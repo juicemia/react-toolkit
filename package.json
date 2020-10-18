@@ -1,5 +1,5 @@
 {
-  "name": "@torresecommerce/toolkit",
+  "name": "react-toolkit",
   "version": "0.0.1",
   "description": "Base boilerplate and toolkit for creating sites",
   "main": "index.js",
