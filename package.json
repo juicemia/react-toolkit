@@ -1,0 +1,14 @@
+{
+  "name": "@torresecommerce/toolkit",
+  "version": "0.0.1",
+  "description": "Base boilerplate and toolkit for creating sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hugo Torres",
+  "license": "MIT",
+  "bin": {
+    "bootstrap": "index.js"
+  }
+}
